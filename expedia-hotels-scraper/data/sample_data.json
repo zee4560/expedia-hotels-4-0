@@ -1,0 +1,18 @@
+[
+    {
+        "hotelname": "Hyatt Regency Bali",
+        "location": "Bali, Indonesia",
+        "description": "A luxury hotel in Bali with scenic views and top-notch amenities.",
+        "reviews": 1204,
+        "rating": 4.5,
+        "offers": [
+            {
+                "room_type": "Deluxe Suite",
+                "price": 299,
+                "currency": "USD",
+                "availability": true
+            }
+        ],
+        "amenities": ["Free Wi-Fi", "Swimming Pool", "Gym", "Spa"]
+    }
+]
